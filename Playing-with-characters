@@ -1,0 +1,17 @@
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
+
+#define MAX_LEN 128
+
+int main() 
+{
+    char ch;
+    char word[MAX_LEN];
+    char sen[MAX_LEN];
+
+    printf("C\nLanguage\nWelcome To C!!");
+   
+    return 0;
+}
